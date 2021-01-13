@@ -15,3 +15,5 @@ Note(s):
 3. You can accidently hide the Persona Bar from yourself if you are an Administrator and apply the role to your account. If this happens you will need to remove the role from your user manually in the database of your website or another programatic means.
 
 4. User's that have access editing access permissions will still have access to the same API's, etc. that they would have before applying the 'Hide Persona Bar' role.
+
+5. The user will be forced into View mode before the page loads to ensure that partial editing components are not displayed.
