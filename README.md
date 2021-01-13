@@ -2,7 +2,7 @@
 
 Hide the Persona Bar (Admin Control Panel UX) from content editors and other users in DNN Platform. 
 
-Simply install into your DNN Platform v9.0.0+ website and assign the 'Hide Persona Bar' role to any user from the default User Management screen. The next time the user try's to access a page the Persona Bar will be automatically hidden from them.
+Simply install into your DNN Platform v9.0.0+ website and assign the 'Hide Persona Bar' role to any user from the default User Management screen. The next time the user tries to access a page the Persona Bar will be automatically hidden from them.
 
 Use this to help create simple editing experiences for your users when a full control panel experience is not needed in your use case. 
 
